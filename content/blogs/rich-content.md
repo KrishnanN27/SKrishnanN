@@ -23,14 +23,14 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 <br>
 
 
-
+<!-- 
 ## Twitter Simple Shortcode
 ```
 {{</* tweet GoHugoIO 1315233626070503424 */>}}
 ```
 <br>
 {{< tweet GoHugoIO 1315233626070503424 >}}
-<br>
+<br> -->
 
 
 
